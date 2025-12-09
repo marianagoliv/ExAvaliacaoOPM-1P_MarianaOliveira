@@ -1,0 +1,1 @@
+alert("Olá Mundo! Vamos imprimir na console uma tabuada tradicional!")
